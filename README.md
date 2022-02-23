@@ -38,5 +38,8 @@
   such as naming functions and variables in the "universal" syntax will improve the readability even further. Such as 
   naming variables with lowerAndThenUppercase letters and functions with UppercaseAtBegining. 
 
+# Python include and libs folder
+  The attached Python folder has the include folder and library folder needed to run this program.
+
 
 
